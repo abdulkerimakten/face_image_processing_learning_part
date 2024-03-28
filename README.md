@@ -26,5 +26,5 @@ The application visualizes the results by drawing rectangles around the detected
 
 - You can change or customize the Haar Cascade model by using different .xml files. Experimenting with different models may yield better detection and recognition results.
 
-- The application can capture images from various sources such as video files or live camera streams. You can modify the image source by adjusting the parameters of the `cv.VideoCapture()` function.
+- The application can capture images from various sources such as video files or live camera streams(haven't tried by the owner of the repo :) but you can try). You can change the images to be recognized to see how well the code works.
 
